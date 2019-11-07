@@ -1,6 +1,6 @@
 # RAPI
 RAPi uma nova visão para zabbix (Compativel com a versão 4.0 +)
-Criado para ser um dashboard automatizado e simplificado para zabbix. não requer instalação adicional apenas um apache e php que são nativos do zabbix (ideal para ser instalado na mesma maquina do front end do zabbix)
+Criado para ser um dashboard automatizado e simplificado para zabbix. não requer instalação adicional apenas um apache e php que são nativos do zabbix (ideal para ser instalado na mesma maquina do front end )
 
 1 - realize o download do arquivo zip e descompacte na sua pasta padrão do apache (exemplo /var/www/html)
 2 - apos edite o arquivo de configuração encontrado na pasta /var/www/html/rapi/conf/conf.php inserindoos seguintes dados
