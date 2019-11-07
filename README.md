@@ -12,6 +12,8 @@ $passwd='zabbix'; <---------- Senha do usuario
 
 $ip_zbx='localhost'; <---- ip do zabbix server
 
+3 - URL de acesso - http://iphost/rapi/dashboard.php
+
 Funcionalidade
 * Dashboard com alarmes e severidade
 * painel retratil de alarmes com suas descrições e grupos do host
@@ -46,6 +48,7 @@ $ passwd = 'zabbix'; <---------- User Password
 
 $ ip_zbx = 'localhost'; <---- zabbix ip server
 
+3 - URL acess - http://iphost/rapi/dashboard.php
 
 Functionality
 * Panel with alarms and severity
