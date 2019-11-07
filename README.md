@@ -5,8 +5,11 @@ Criado para ser um dashboard automatizado e simplificado para zabbix. não reque
 1 - realize o download do arquivo zip e descompacte na sua pasta padrão do apache (exemplo /var/www/html)
 2 - apos edite o arquivo de configuração encontrado na pasta /var/www/html/rapi/conf/conf.php inserindoos seguintes dados
 //Configuração de acesso ao front End zabbix-API
+
 $user_zbx='Admin'; <--------- Usuario com acesso a API do zabbix
+
 $passwd='zabbix'; <---------- Senha do usuario
+
 $ip_zbx='localhost'; <---- ip do zabbix server
 
 Funcionalidade
@@ -34,9 +37,13 @@ Designed to be an automated and simplified dashboard for zabbix. no additional i
 1 - Download the zip file and unzip your default apache folder (example / var / www / html)
 2 - Bet the configuration file found in the /var/www/html/rapi/conf/conf.php folder by entering the following data
 // Configuring zabbix-API Front End Access
+
 $ user_zbx = 'Admin'; <--------- User with zabbix API access
+
 $ passwd = 'zabbix'; <---------- User Password
+
 $ ip_zbx = 'localhost'; <---- zabbix ip server
+
 
 Functionality
 * Panel with alarms and severity
