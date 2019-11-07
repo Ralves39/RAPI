@@ -27,7 +27,9 @@ http://192.168.1.169/rapi/dashboard.php?refresh=600
 2 - Ambientes com varios alarmes - em ambientes com grande quantidade de alarmes ou manutenções em hosts, considere separa o frontend do zabbix para uma resposta rapida da API. Como este dashboard consulta totalmente a API, considere deixa-lo o mais rapido possivel nestes ambientes.
 
 
-Objetivo do projeto - desenvolver um dashboard automatico e dinâmico que ajude nas funções do dia dia, para as pessoas não familiarizadas com as telas do zabbix, e que proporcione o minimo nescessário para administração dos eventos do dia-dia. Alem de ajudar no aprendizado da ferramenta e suas consultas via sua poderosa API. Espero que gostem e divirtam-se em seus desenvolvimentos com a ferramenta.
+Objetivo do projeto - desenvolver um dashboard automatico e dinâmico que ajude nas funções do dia dia, para as pessoas não familiarizadas com as telas do zabbix, e que proporcione o minimo nescessário para administração dos eventos do dia-dia. Alem de ajudar no aprendizado da ferramenta e suas consultas via sua poderosa API. 
+
+Espero que gostem e divirtam-se em seus desenvolvimentos com a ferramenta. Lembrando que se gostar não deixe de comentar e de compartilhar, para que eu possa ter mais oportunidades no mundo Zabbix.
 
 English Version
 
@@ -60,4 +62,9 @@ http://192.168.1.169/rapi/dashboard.php?refresh=600
 2 - Multi-Alarm Environments - In high-alarm or host-maintenance environments, consider zabbix splitting or frontend for a quick API response. Since this panel fully queries an API, consider leaving it as soon as possible in these environments.
 
 
-Project Objective - To develop an automated, dynamic dashboard that will help with day functions for people unfamiliar with zabbix displays and provide the minimum necessary to manage day events. In addition to helping you learn tools and queries through the powerful API. I hope you enjoy and have fun in your developments with a tool.
+Project Objective - To develop an automated, dynamic dashboard that will help with day functions for people unfamiliar with zabbix displays and provide the minimum necessary to manage day events. In addition to helping you learn tools and queries through the powerful API.
+I hope you enjoy and have fun in your developments with the tool. Remembering that if you like be sure to comment and share, so I can have more opportunities in the Zabbix world.
+
+Rodrigo Soares
+rodrigo_s.alves@hotmail.com
+Linkedin - https://www.linkedin.com/in/rodrigo-soares-alves-7312733b/
